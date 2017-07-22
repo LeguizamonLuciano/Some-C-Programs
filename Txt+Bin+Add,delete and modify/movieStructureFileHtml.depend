@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1464459243 source:c:\users\nacho\desktop\trabajo practico nº3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464459308 c:\users\nacho\desktop\trabajo practico nº3\funciones.h
+
+1464459397 source:c:\users\nacho\desktop\trabajo practico nº3\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1495941079 source:c:\users\lopsd\desktop\tp3\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1495941070 c:\users\lopsd\desktop\tp3\funciones.h
+
+1495940102 source:c:\users\lopsd\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496190107 source:d:\leguizamonluciano\tp3\tp3\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1496185430 d:\leguizamonluciano\tp3\tp3\funciones.h
+
+1496187391 source:d:\leguizamonluciano\tp3\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496932997 source:c:\documents and settings\natalia 2\escritorio\tp3 last\tp3 last updates\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1496175810 c:\documents and settings\natalia 2\escritorio\tp3 last\tp3 last updates\funciones.h
+
+1496933172 source:c:\documents and settings\natalia 2\escritorio\tp3 last\tp3 last updates\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1496235440 source:c:\users\lopsd\desktop\tp3 final para entregar\tp3 last updates version 2\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1496235440 c:\users\lopsd\desktop\tp3 final para entregar\tp3 last updates version 2\funciones.h
+
+1496235440 source:c:\users\lopsd\desktop\tp3 final para entregar\tp3 last updates version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

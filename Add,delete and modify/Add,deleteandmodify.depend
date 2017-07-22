@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1461782418 source:c:\users\lopsd\desktop\tp2 programacion\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461846544 c:\users\lopsd\desktop\tp2 programacion\tp_2_cascara\funciones.h
+
+1493074019 source:c:\users\alumno\downloads\tp original\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493073880 c:\users\alumno\downloads\tp original\funciones.h
+
+1493073987 source:c:\users\alumno\downloads\tp original\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1493163671 source:c:\users\alumno\desktop\asd2\tp original fixed\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493164143 c:\users\alumno\desktop\asd2\tp original fixed\funciones.h
+
+1493163142 source:c:\users\alumno\desktop\asd2\tp original fixed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1493165010 source:c:\users\alumno\desktop\asd2\tp original last fix\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493149886 c:\users\alumno\desktop\asd2\tp original last fix\funciones.h
+
+1493149886 source:c:\users\alumno\desktop\asd2\tp original last fix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1494420398 source:c:\documents and settings\natalia 2\escritorio\tp2\tp original last fix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1494420398 c:\documents and settings\natalia 2\escritorio\tp2\tp original last fix\funciones.h
+
